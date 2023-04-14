@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace TrainingHeap
+﻿namespace TrainingHeap
 {
     public class Heap
     {
