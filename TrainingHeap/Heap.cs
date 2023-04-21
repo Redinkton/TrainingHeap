@@ -1,6 +1,6 @@
 ﻿namespace TrainingHeap
 {
-    public class Heap
+    public class MinHeap
     {
         private int[] _arr;
 
@@ -8,7 +8,7 @@
         private int _count;
         public int Count { get { return _count; } }
 
-        public Heap(int n)
+        public MinHeap(int n)
         {
             _arr = new int[n];
 
